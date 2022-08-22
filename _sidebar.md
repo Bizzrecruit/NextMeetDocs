@@ -6,7 +6,7 @@
 
   * [About NextMeet](./README.md)
   * [Installation](./docs/installation.md)
-  * [Login & SignUp](./docs/signup.md)
+  * [Login & SignUp](./docs/Signup.md)
   * [ReadyPlayer Avatar](./docs/Readyplayer.md)
 
 - Others
