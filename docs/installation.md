@@ -25,10 +25,10 @@ To download the Desktop app for Windows, first head over to **http://www.nextmee
 
     Now that you have the app installed, it's time to create your NextMeet account. 
 
-<center> <img src="./docs/images/mac1.jpg" > </center>
+<center> <img src="./docs/images/mac2.jpg" > </center>
 
 3. After running the PKG file, you will have to give permission from your mac security & Privacy
 
-<center> <img src="./docs/images/mac2.jpg" > </center>
+<center> <img src="./docs/images/mac1.jpg" > </center>
 
 4. Click on open-anyway and you will be able to install the NextMeet application on your mac
